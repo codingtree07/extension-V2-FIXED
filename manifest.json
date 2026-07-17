@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "PyConsole.d",
+  "version": "1.0",
+  "description": "DevTools에서 Python 스크립트를 실행합니다.",
+  "devtools_page": "devtools.html",
+  "permissions": []
+}
